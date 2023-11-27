@@ -1,0 +1,27 @@
+= Kodakrome Home
+:description: Kodakrome Test Page
+
+== First Section
+Sometimes we want things *bold* and sometimes we want them in _italics_
+Often we want to use `monospace` or even #highlights#
+The big question is can we #`highlight monospace?`#
+
+== Example Section
+.Lets Try an Example
+[example]
+This is an example block
+
+.An Example with newlines
+====
+The synatax highlighter seems to be ok with this
+
+And it even includes *carriage returns*
+====
+
+[source, python]
+----
+class cool:
+    def __init__(self):
+        pass
+----
+
