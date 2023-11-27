@@ -4,7 +4,7 @@
 == First Section
 Sometimes we want things *bold* and sometimes we want them in _italics_
 Often we want to use `monospace` or even #highlights#
-The big question is can we #`highlight monospace?`#
+The big question is can we `#highlight monospace?#`
 
 == Example Section
 .Lets Try an Example
@@ -25,3 +25,31 @@ class cool:
         pass
 ----
 
+.Codeblock Title
+[source, python]
+----
+def main():
+    print()
+----
+
+.Example with dash syntax?
+[example]
+----
+trying to see if this works or not
+
+does it work?
+----
+
+.Yet Another attempt
+[example]
+====
+here we go again
+
+on our own
+====
+
+
+== *XREF* Section
+A same page reference: <<Example Section>> +
+Same page reference with specific <<Example Section, link>> +
+Link to another component xref:component_a:inline-text-formatting.adoc[compA link]
