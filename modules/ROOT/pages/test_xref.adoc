@@ -4,5 +4,5 @@
 == SectionA
 this is just for linking! +
 revision xref specification xref:1.2.3@kod_home.adoc[rev_link] +
-component xref specification xref:kodakrome:kod_home.adoc[comp_link] +
-revision and component spec xref:1.2.3@kodakrome:kod_home.adoc[rev_comp_link] +
+component xref specification xref:kodakrome::kod_home.adoc[comp_link] +
+revision and component spec xref:1.2.3@kodakrome::kod_home.adoc[rev_comp_link] +
