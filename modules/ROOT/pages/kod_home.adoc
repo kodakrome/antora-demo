@@ -52,4 +52,5 @@ on our own
 == *XREF* Section
 A same page reference: <<Example Section>> +
 Same page reference with specific <<Example Section, link>> +
-Link to another component xref:1.5.6@component_a:ROOT:inline-text-formatting.adoc[compA link]
+Link to another component xref:1.5.6@inline-text-formatting.adoc[compA link]
+
