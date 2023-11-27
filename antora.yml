@@ -1,0 +1,10 @@
+name: kodakrome
+title: Kodakrome
+version: 1.2.3
+start_page: kod_home.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
